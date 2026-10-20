@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Precipitacion acumulada mensual 2025-11</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">201.966796875</MDI>
+      <MDI key="STATISTICS_MEAN">26.072209300605</MDI>
+      <MDI key="STATISTICS_STDDEV">33.122826241134</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">43.42</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

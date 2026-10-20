@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Precipitacion acumulada mensual 2022-05</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">6.9221591949463</MDI>
+      <MDI key="STATISTICS_MAXIMUM">90.13028717041</MDI>
+      <MDI key="STATISTICS_MEAN">22.63611353617</MDI>
+      <MDI key="STATISTICS_STDDEV">10.606549313047</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">43.42</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

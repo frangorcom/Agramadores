@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Precipitacion acumulada mensual 2024-10</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">9.0896883010864</MDI>
+      <MDI key="STATISTICS_MAXIMUM">442.50772094727</MDI>
+      <MDI key="STATISTICS_MEAN">87.295702148141</MDI>
+      <MDI key="STATISTICS_STDDEV">61.719392168146</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">43.42</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

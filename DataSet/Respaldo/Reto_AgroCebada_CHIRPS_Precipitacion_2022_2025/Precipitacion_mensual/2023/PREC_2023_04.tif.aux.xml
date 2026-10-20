@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Precipitacion acumulada mensual 2023-04</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">2.8091049194336</MDI>
+      <MDI key="STATISTICS_MAXIMUM">115.07888793945</MDI>
+      <MDI key="STATISTICS_MEAN">27.01487800784</MDI>
+      <MDI key="STATISTICS_STDDEV">15.889789469099</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">43.42</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

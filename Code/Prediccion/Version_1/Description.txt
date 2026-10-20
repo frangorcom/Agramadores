@@ -1,0 +1,29 @@
+Primera versión de modelos de predicción
+
+Comparativa de Modelos de regresión lineal y polinómica múltiple, y MSV
+
+Dataset filtrado por sesgo humano de recomendaciones
+
+NO SE USARON TODAS LAS VARIABLES DE LOS DATASETS
+
+Resultados:
+
+Pevios a importancia con Lasso:
+	Regresión lineal: RMSE: 0.5577 t/ha | MAE: 0.3980 t/ha | R2: 0.5675
+	Regresión polinómica grado 2: RMSE: 0.6536 t/ha | MAE: 0.4796 t/ha | R2: 0.4060
+	MSV: RMSE: 0.5547 t/ha | MAE: 0.3951 t/ha | R2: 0.5721
+
+Resumen de Lasso:
+	Total de variables originales: 53
+	Variables anuladas (ruido): 34
+	Variables retenidas (activas): 19
+
+	Top 5 variables con mayor impacto en el modelo:
+      		    Variable  	Coeficiente
+		2   Tx2504_mea    -0.332188
+		16  Pr2504_mea     0.323417
+		18  Pr2506_mea    -0.254798
+		20  Pr2508_mea    -0.217835
+		22  Pr2510_mea     0.169895
+
+MSV con mejora de importancia de variables con Lasso: RMSE: 0.5251 t/ha | MAE: 0.3791 t/ha | R2: 0.6167
